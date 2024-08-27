@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 /.phpunit.cache
+=======
+>>>>>>> dc80b6761200e8a3323631deb39ebdfefb5cd718
 /node_modules
 /public/build
 /public/hot
@@ -8,6 +11,10 @@
 .env
 .env.backup
 .env.production
+<<<<<<< HEAD
+=======
+.phpunit.result.cache
+>>>>>>> dc80b6761200e8a3323631deb39ebdfefb5cd718
 Homestead.json
 Homestead.yaml
 auth.json
